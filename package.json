@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "remixicon": "^2.5.0",
+    "scrollreveal": "^4.0.9"
+  }
+}
